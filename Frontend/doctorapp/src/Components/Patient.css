@@ -1,0 +1,24 @@
+.nav-doc{
+    text-decoration: none;
+    background-color: azure;
+}
+.patient{
+    height: 100px;
+
+}
+#mainn{
+    background-image: linear-gradient(rgb(210, 239, 239), rgb(196, 197, 197), rgb(247, 250, 250));}
+#cc{
+    color: rgb(6, 72, 49);
+}
+.main-im{
+    height: 40%;
+}
+#heading22{
+    font-size: larger;
+    color: blueviolet;
+    
+}
+.login-button{
+    width: 100%;
+}

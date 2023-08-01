@@ -1,0 +1,51 @@
+.card-tex{
+    color: rgb(0, 0, 0);
+}
+.btn {
+    height: 60px;
+    width: 300px;
+    margin: 20px auto;
+    box-shadow: 10px 10px 30px rgb(254, 215, 188);
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.signup {
+    font-size: 22px;
+    border: none;
+    outline: none;
+    position: relative;
+    cursor: pointer;
+    background-color: rgb(47, 56, 64);
+    text-decoration: none;
+    color: black;
+}
+ 
+.login,
+.signup {
+    font-size: 20px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    position: relative;
+    cursor: pointer;
+}
+
+.login {
+    height: 60px;
+    width: 180px;
+    left: -4%;
+    border-radius: 50px;
+    background-image: linear-gradient(to right,
+            rgb(45, 146, 200),
+            rgb(176, 222, 244));
+            text-decoration: none;
+            color: black;
+ 
+}
+
+ 
+.moveslider {
+    left: 200px;
+}

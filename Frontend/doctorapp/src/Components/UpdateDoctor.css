@@ -1,0 +1,17 @@
+.login-button
+{
+    background-color: #2a9596;
+    border-color:white;
+    border: none;
+border-radius: 30px;
+    width:70%;
+    height:130%;
+    float: right;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 120%;
+} 
+.img-updatedoctor
+{
+    width: 70%;
+}
